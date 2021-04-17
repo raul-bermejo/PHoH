@@ -19,7 +19,7 @@ pip install gudhi
 
 ## Authors
 
-The current collaborators of this proejct are Georg Wilding, Rien van de Weijgaert, Bernarnd Jones.
+The current collaborators of this project are Georg Wilding, Rien van de Weijgaert, Bernarnd Jones.
 
 ## Usage
 
