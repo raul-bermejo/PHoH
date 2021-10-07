@@ -1,4 +1,4 @@
-# Cosmic Web Halo Topology
+# Persistent Homology on Halos
 
 This project is a study of the connectivity of dark matter halos in N-body simulations of the cosmic web.
 The main mathematical formalisms that are used for this study are Graph Theory (Minimum Spanning Tree) and Persistent Homology.
